@@ -26,4 +26,4 @@ torch.onnx.export(
 )
 
 print("FP32 ONNX model exported: mnist_fp32.onnx")
-
+print("Done")
